@@ -1,0 +1,1 @@
+String.prototype.XyloHack=function(i){return String(this)["to"+(i%2?"Low":"Upp")+"erCase"]();}
